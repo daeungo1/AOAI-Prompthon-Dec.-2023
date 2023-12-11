@@ -1,8 +1,6 @@
-# MTC Prompton Hands-on Workshop
+## Samsung VD Azure OpenAI Workshop
 
-/2023 Nov. Edition/
-
-#### 진행 순서
+### 진행 순서
 
 | 시간표                                                       |
 | ------------------------------------------------------------ |
@@ -10,14 +8,5 @@
 
 
 
-#### 함께 참여하는 Workshop 진행을 위해 웹연결을 통해 Communication을 진행합니다. 
-
-#### **2가지 연결 방법**
-
-1. Link 로 연결 - https://www.menti.com/als2y9euu4ea
-
-2. 웹주소/QR Code 및 Code 입력으로 연결
-
-   ![menti](./images/menti.png)
 
    
