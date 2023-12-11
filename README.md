@@ -1,4 +1,4 @@
-## Samsung VD Azure OpenAI Workshop
+## Azure OpenAI Workshop
 
 ### 진행 순서
 
